@@ -1,0 +1,14 @@
+ .smaller-image {
+    width: 200px;
+   border-radius:20px;
+   
+}
+h1{
+  color:#303030;
+  font-family:"cooper black";
+  font-size:50px;  
+}
+body{
+  background-image:url('https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png');
+  font-family:"Times New Roman";
+}
